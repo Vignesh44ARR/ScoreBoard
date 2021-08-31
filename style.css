@@ -107,7 +107,7 @@ td:nth-child(7) {
 }
 
 
-@media screen and (max-width: 370px) {
+@media screen and (max-width: 460px) {
 	body{
 		margin-left: 15px;
 	}
