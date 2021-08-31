@@ -107,7 +107,7 @@ td:nth-child(7) {
 }
 
 
-@media screen and (max-width: 460px) {
+@media screen and (max-width: 450px) {
 	body{
 		margin-left: 15px;
 	}
@@ -115,6 +115,7 @@ td:nth-child(7) {
 	
 	h1 {
 		font-size: 22px;
+		color:navy;
 	}
 
 	.center {
