@@ -24,6 +24,7 @@ h1 {
 	text-align: 50px;
 	font-size: 18px;
 	border: 2px solid black;
+	border-radius:  3% 40px 2%;
 }
 
 .center button {
@@ -105,9 +106,14 @@ td:nth-child(6),
 td:nth-child(7) {
 	text-align: center;
 }
+#ims{
+	
+	width: 320px;
+	height:160px;
+}
 
 
-@media screen and (max-width: 355px) {
+@media screen and (max-width: 370px) {
 	body{
 		margin-left: 15px;
 	}
